@@ -1,0 +1,89 @@
+COOGI BLACK FRIDAY - GOOGLE ADS TEXT ASSETS
+Every line is within Google's character limit (count shown in brackets).
+
+FINAL URL: https://coogi.com/collections/all
+BUSINESS NAME: COOGI
+CALL TO ACTION: Shop now
+DISPLAY PATHS: black-friday / 25-off
+
+HEADLINES (max 30 characters, up to 15)
+  25% Off Everything  [18]
+  Black Friday Sale Is Live  [25]
+  COOGI Black Friday Sale  [23]
+  No Code Needed  [14]
+  25% Off Sitewide  [16]
+  Biggest Sale Of The Year  [24]
+  COOGI Sweaters 25% Off  [22]
+  Shop COOGI Black Friday  [23]
+  Authentic COOGI Knitwear  [24]
+  It Won't Get Better  [19]
+  25% Off Sweaters & Sets  [23]
+  Women's Knits 25% Off  [21]
+  Official COOGI Store  [20]
+  Discount Applied At Checkout  [28]
+  Iconic 3D Knit Sweaters  [23]
+
+LONG HEADLINES (max 90, up to 5)
+  Black Friday at COOGI: 25% off everything. No code needed, applied at checkout.  [79]
+  The biggest COOGI sale of the year is on. Take 25% off every sweater, set and jacket.  [85]
+  Iconic COOGI knitwear, 25% off sitewide for Black Friday. It won't get better than this.  [88]
+  25% off everything at the official COOGI store. Sweaters, sets, jackets and women's knits.  [90]
+  Your size won't wait. Shop the COOGI Black Friday sale and save 25% on everything.  [82]
+
+DESCRIPTIONS (max 90, up to 5; the first is the short one, max 60)
+  25% off everything at COOGI. No code needed.  [44]
+  The biggest sale of the year is on. 25% off sweaters, sets, outerwear and women's knits.  [88]
+  Shop the official COOGI store and save 25% sitewide. Discount is applied at checkout.  [85]
+  Iconic 3D textured knitwear, now 25% off. No code, no catch. It won't get better.  [81]
+  From classic crewnecks to heavyweight knit sets, everything is 25% off for Black Friday.  [88]
+
+SITELINKS (title max 25, each description line max 35)
+  Shop All 25% Off  [16]
+     Everything is 25% off  [21]
+     No code needed  [14]
+     https://coogi.com/collections/all
+  Classic Crewneck Sweater  [24]
+     Multicolor 3D textured knit  [27]
+     Now 25% off  [11]
+     https://coogi.com/products/coogi-classic-crewneck-1
+  Women's All-Season Knits  [24]
+     Long sleeve and short sleeve  [28]
+     All 25% off  [11]
+     https://coogi.com/products/new-coogi-womens-light-weight-knit-ls-top-orange-multi
+  Navy Crewneck Sweater  [21]
+     Special Edition 3D knit  [23]
+     Every size in stock  [19]
+     https://coogi.com/products/new-coogi-navy-crewneck-special-edition
+  Jade Crewneck Sweater  [21]
+     Special Edition 3D knit  [23]
+     Now 25% off  [11]
+     https://coogi.com/products/new-coogi-jade-crewneck-special-edition
+  Knit Trucker Jacket  [19]
+     Red textured sweater knit  [25]
+     Now 25% off  [11]
+     https://coogi.com/products/new-coogi-knit-jacket-red
+
+CALLOUTS (max 25)
+  25% Off Everything  [18]
+  No Code Needed  [14]
+  Applied At Checkout  [19]
+  Official COOGI Store  [20]
+  Biggest Sale Of The Year  [24]
+  Men's & Women's Styles  [22]
+
+STRUCTURED SNIPPET - header: Types
+  Sweaters
+  Hoodies
+  Jackets
+  Joggers
+  Women's Knits
+  Tees
+
+PROMOTION ASSET
+  Occasion: Black Friday
+  Promotion type: Percent discount
+  Percent off: 25
+  Item: Everything
+  Final URL: https://coogi.com/collections/all
+  Promo code: none (applied automatically)
+  Dates: set to match the sale's end date in Shopify
