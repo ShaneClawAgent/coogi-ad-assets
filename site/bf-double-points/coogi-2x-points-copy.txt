@@ -1,0 +1,29 @@
+COOGI DOUBLE REWARD POINTS - COPY
+
+EMAIL
+  Subject 1: Double reward points start now
+  Preheader 1: Earn 2X points on every order, plus 25% off sitewide. No code needed.
+  Subject 2: Your order now earns 2X points
+  Preheader 2: Same Black Friday sale, twice the rewards. Sizes are moving.
+  Subject 3: Save 25%. Earn double.
+  Preheader 3: Double COOGI Rewards points on every order, on top of 25% off sitewide.
+
+WEBSITE ANNOUNCEMENT BAR
+  BLACK FRIDAY BONUS: DOUBLE REWARD POINTS ON EVERY ORDER + 25% OFF SITEWIDE! NO CODE NEEDED. EXCLUSIONS APPLY.
+
+TAPCART ANNOUNCEMENT BAR (rotating)
+  DOUBLE REWARD POINTS ON EVERY ORDER
+  BLACK FRIDAY SALE: 25% OFF SITEWIDE
+
+TAPCART PUSH (header / description, with character count)
+  Double Points Today 🔥
+     Black Friday bonus: earn DOUBLE reward points on every order today. It's still 25% off sitewide, no code needed. Save now, earn double. 🔥  [138]
+  2X Points On Every Order
+     Your order just got more rewarding. Earn 2X COOGI Rewards points on everything you buy, plus 25% off sitewide. No code needed. Sizes are moving.  [144]
+  Save Now. Earn Double.
+     25% off sitewide, and now double reward points on top. Sign in to COOGI Rewards, shop the sale, and stack your points. Don't wait on your size. 🔥  [146]
+
+SMS (with character count)
+  COOGI: Black Friday bonus. Earn DOUBLE reward points on every order, plus 25% off sitewide. No code needed. Sizes are moving: https://coogi.com/collections/all  [159]
+  COOGI: Today your order earns 2X reward points. Still 25% off sitewide, no code needed. Save now, earn double: https://coogi.com/collections/all  [144]
+  COOGI: Double points are on. Every order earns 2X rewards, plus 25% off sitewide. No code. Grab your size: https://coogi.com/collections/all  [140]
